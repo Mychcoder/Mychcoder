@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @WilfMGitHub
-- 👀 I’m interested in cryptocurrencies.
+- 👋 Hi, I’m @Mychcoder
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Solana-based projects.
-- 📫 Get in touch on Telegram @WilfM
 
 <!---
 WilfMGitHub/WilfMGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
